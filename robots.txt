@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manpreetmaan.github.io/jack-meow-review/sitemap.xml
